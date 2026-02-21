@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # mern-chat-app
 =======
-<<<<<<< HEAD
+
 # mern-chat-app
 =======
 Some Features:
